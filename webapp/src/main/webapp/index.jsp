@@ -17,7 +17,7 @@
     <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
     <br>
 
-    <label for="brother"><b>Father Name</b></label>
+    <label for="brother"><b>Brother Name</b></label>
     <input type="text" placeholder="Enter brother Name" name="brother" id="brother" required>
     <br>
 
